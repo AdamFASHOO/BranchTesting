@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\bin\Debug\net6.0\BranchingTesting.exe
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\bin\Debug\net6.0\BranchingTesting.deps.json
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\bin\Debug\net6.0\BranchingTesting.runtimeconfig.json
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\bin\Debug\net6.0\BranchingTesting.dll
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\bin\Debug\net6.0\BranchingTesting.pdb
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.AssemblyInfo.cs
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.dll
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\refint\BranchingTesting.dll
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.pdb
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\BranchingTesting.genruntimeconfig.cache
+C:\Users\Adam\source\repos\BranchingTesting\BranchingTesting\obj\Debug\net6.0\ref\BranchingTesting.dll
