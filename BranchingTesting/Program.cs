@@ -4,8 +4,7 @@
     {
         public static void Main()
         {
-            Hero h = new Hero(10, 20);
-            Console.WriteLine("Hero Attack: " + h.Attack);
+            Treasure t = new Treasure(1000, "Silver");
         }
     }
 }
